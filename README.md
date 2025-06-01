@@ -2,7 +2,7 @@
 
 ### 📄 `README.md` – DjangoMart: E-Commerce Web Application
 
-```markdown
+
 # 🛒 DjangoMart — Revolutionizing Online Shopping with Django
 
 **DjangoMart** is a robust and feature-rich e-commerce web application built using the Django framework. The project replicates a real-world online store, offering users a seamless shopping experience and giving administrators full control over product management, orders, and user interactions.

@@ -1,4 +1,4 @@
----
+
 
 ### 📄 `README.md` – DjangoMart: E-Commerce Web Application
 
@@ -9,7 +9,6 @@
 
 Whether you're a customer browsing through product listings or an admin managing the backend, DjangoMart provides a responsive, secure, and intuitive interface for all.
 
----
 
 ## 🎯 Project Goals
 

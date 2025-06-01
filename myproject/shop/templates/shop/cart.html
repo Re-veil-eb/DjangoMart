@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+<h1>Your Cart</h1>
+
+<ul class="list-group">
+    {% for product in cart.products.all %}
+        <li class="list-group-item">
+            {{ product.name }} - ${{ product.price }}
+        </li>
+    {% endfor %}
+</ul>
+
+<a href="{% url 'checkout' %}" class="btn btn-success mt-4">Proceed to Checkout</a>
+{% endblock %}
